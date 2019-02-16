@@ -7,9 +7,11 @@ int main()
 {
     int i;
     string s;
+    string h;
     i = 9;
     s = "supriya" ;
-    cout << i << " , " << s << endl;
+    h = "heetesh";
+    cout << i << " , " << s << "," << h <<  endl;
     return 0;
 
 }
